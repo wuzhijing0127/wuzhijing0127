@@ -91,12 +91,8 @@ HOSPITALS (MASS GENERAL BRIGHAM, ST. ELIZABETH MEDICAL CENTER, SOUTH SHORE)
 
 <br />
 <br />
-
-<p align="center">
- <img src="Jimmy.png">
- </p>
  
- Learn more about me: <u>[About Jimmy][aboutMe]</u>
+ Learn more about me on Youtube: <u>[About Jimmy][aboutMe]</u>
 </details>
 
 
