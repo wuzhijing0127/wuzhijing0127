@@ -13,7 +13,7 @@
 
 __PHILIPS EXETER ACADEMY, EXETER, NH__
 
-*High School Diploma expected June 2022*                                      __GPA__:9.98/11
+*High School Diploma expected June 2022*                                                       __GPA__:9.98/11
 
 <br />
 
