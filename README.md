@@ -93,7 +93,8 @@ HOSPITALS (MASS GENERAL BRIGHAM, ST. ELIZABETH MEDICAL CENTER, SOUTH SHORE)
 <br />
 
 <p align="center">
- <img src="/Users/m.g.aurelius/Desktop/Screen Shot 2021-12-31 at 1.03.16 PM.png">
+ <img src="Screen Shot 2021-12-31 at 1.03.16 PM.png">
+ </p>
  
  Learn more about me: <u>[About Jimmy][aboutMe]</u>
 </details>
