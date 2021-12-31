@@ -18,6 +18,7 @@ __PHILIPS EXETER ACADEMY, EXETER, NH__
 <br />
 
 ### <div align="center"> __EXPERIENCE__ ###
+ ---
 **FOUNDER AND PRESIDENT (June 2020 - Present)**
 
 STARTIQA MASTERCLASS
@@ -59,7 +60,7 @@ I used a method with features represented by both 1-D smiles and standard RDKit 
 <br />
 
 ### <div align="center"> __EXTRACURRICULAR ACTIVITIES__ ###
-
+ ---
 **MATH INSTRUCTOR (2018 – present)**
 
 PHILIPS EXETER ELEMENTARY, GKB ACADEMY KAZAKHSTAN, GREATER BOSTON & BISB
