@@ -9,6 +9,7 @@
 <br />
 
 ### <div align="center"> __ACADEMICS & AWARDS__ 
+ ---
 
 __PHILIPS EXETER ACADEMY, EXETER, NH__
 
