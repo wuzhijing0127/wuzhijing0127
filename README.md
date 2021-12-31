@@ -2,10 +2,6 @@
 
 ## I'm a Student, Entrepreneur, Developer, and Tutor!!
 
-- 🔭 Learn more about me on Youtube: <u>[About Jimmy][aboutMe]</u>
-- 🌱 I’m currently learning everything
-
-
 <br />
 
 ### <div align="center"> __ACADEMICS & AWARDS__ 
@@ -96,9 +92,10 @@ HOSPITALS (MASS GENERAL BRIGHAM, ST. ELIZABETH MEDICAL CENTER, SOUTH SHORE)
 <br />
 <br />
 
+ Learn more about me: <u>[About Jimmy][aboutMe]</u>
 </details>
 
 
 
 [bostonNews]: https://whdh.com/news/students-from-china-using-connections-to-order-masks-for-mass/
-[aboutMe]: https://www.youtube.com/watch?v=_JlD-sBrbV8
+[aboutMe]: https://www.youtube.com/watch?v=zpztgIFnjU4
